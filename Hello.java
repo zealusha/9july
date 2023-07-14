@@ -1,8 +1,9 @@
 
-class hello
+class Hello
 {
-	Public static void main(string args[])
-	{
-		System.out.ptintIn("hello");
-	}
+Public static void main(String args[])
+{
+System.out.println(“hello”);
 }
+}
+
